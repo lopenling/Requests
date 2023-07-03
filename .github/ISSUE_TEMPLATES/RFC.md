@@ -143,7 +143,7 @@ ALL BELOW FIELDS ARE REQUIRED
 *Links to audio recordings of related discussion.*
 
 ## Work Phases
-<h3 id="work-phases"></h3>
+<h2 id="work-phases"></h2>
 
 <h3 id="non-coding">Non-Coding</h3>
 *Keep original naming and structure, and keep as first section in Work phases section*
