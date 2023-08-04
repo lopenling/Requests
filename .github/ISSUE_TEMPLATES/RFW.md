@@ -35,9 +35,9 @@ about: A Request for Work
 
 <h2 id="housekeeping">Housekeeping</h2>
 
-Make sure to clearly understand [Type-A](https://docs.google.com/document/d/1rfe1E9b0YJrMHB5NK8EbwVwWmEoHXhAS8b6wSoOwG84/edit#heading=h.sj0ehbfyt58i) and [Type-B](https://docs.google.com/document/d/1rfe1E9b0YJrMHB5NK8EbwVwWmEoHXhAS8b6wSoOwG84/edit#heading=h.sj0ehbfyt58i) requests, and the relevant limitations. Failing to follow the guidelines pertaining to the two acceptable types of RFWs will automatically lead to the disqualification of the RFW. 
+*Make sure to clearly understand [Type-A](https://docs.google.com/document/d/1rfe1E9b0YJrMHB5NK8EbwVwWmEoHXhAS8b6wSoOwG84/edit#heading=h.sj0ehbfyt58i) and [Type-B](https://docs.google.com/document/d/1rfe1E9b0YJrMHB5NK8EbwVwWmEoHXhAS8b6wSoOwG84/edit#heading=h.sj0ehbfyt58i) requests, and the relevant limitations. Failing to follow the guidelines pertaining to the two acceptable types of RFWs will automatically lead to the disqualification of the RFW.*
 
-Take time to complete each section below with as much detail as is required to establish a comprehensive understanding about the underlying product specification.
+*Take time to complete each section below with as much detail as is required to establish a comprehensive understanding about the underlying product specification.*
 
 **ALL BELOW FIELDS ARE REQUIRED**
 <h2 id="The-Problem">The Problem</h2>
